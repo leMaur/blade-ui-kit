@@ -22,6 +22,7 @@ return [
         'checkbox' => Components\Forms\Inputs\Checkbox::class,
         'color-picker' => Components\Forms\Inputs\ColorPicker::class,
         'countdown' => Components\DateTime\Countdown::class,
+        'custom-font' => Components\Layouts\CustomFont::class,
         'cron' => Components\Support\Cron::class,
         'dropdown' => Components\Navigation\Dropdown::class,
         'easy-mde' => Components\Editors\EasyMDE::class,
